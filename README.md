@@ -1,3 +1,3 @@
-# Rubik-s-Cube-A-and-IDDFS-Solver
+# Rubik-s-Cube-A-star-and-IDDFS-Solver
 
 Artifical Intelligence Final Project
